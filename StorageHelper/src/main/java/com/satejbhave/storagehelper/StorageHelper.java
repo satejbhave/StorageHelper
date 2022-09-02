@@ -11,7 +11,7 @@ import java.util.Set;
 public class StorageHelper {
     Context context;
     String databaseName;
-    final String LIST_SIZE = "size_6546351502";
+    final String LIST_SIZE = "list_size_";
     String defaultDatabaseName = "satejbhavestoragehelperclass";
     SharedPreferences sharedPreference;
 
